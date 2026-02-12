@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,Time (s),Training Samples,Test Samples,Features,Notes
+DTW + KNN (k=1),10D Standardized,71.92%,0.2,1039,260,Raw sensor data (10D),DTW distance + kNN

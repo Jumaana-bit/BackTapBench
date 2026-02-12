@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,CV Score,Time (s),Training Samples,Test Samples,Features,Best Params
+Random Forest,Statistical Features,74.62%,74.11%,145.2,1039,260,155,"{'max_depth': None, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}"

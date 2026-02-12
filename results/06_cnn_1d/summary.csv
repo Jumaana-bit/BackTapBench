@@ -1,0 +1,2 @@
+Model,Dataset,Accuracy,Params,Training Samples,Validation Samples,Test Samples,Epochs
+1D CNN,10D Raw Time-Series,79.62%,129353,831,208,260,37
