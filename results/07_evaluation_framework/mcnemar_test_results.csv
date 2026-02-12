@@ -1,0 +1,4 @@
+Model1,Model2,Statistic,p-value,Significant (p<0.05)
+dtw_knn,random_forest,0.5714285714285714,0.4496917979688908,False
+dtw_knn,cnn,6.446428571428571,0.011117560716106999,True
+random_forest,cnn,2.7169811320754715,0.09928563477135788,False

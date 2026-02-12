@@ -1,0 +1,4 @@
+Model,Accuracy,Accuracy (%),Precision (macro),Recall (macro),F1-Score (macro),Cohen's Kappa
+dtw_knn,0.7192,71.92,0.7434,0.7254,0.728,0.6838
+random_forest,0.7462,74.62,0.7546,0.7495,0.7504,0.7142
+cnn,0.7962,79.62,0.8101,0.8001,0.8017,0.7706
