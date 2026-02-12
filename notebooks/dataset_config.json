@@ -1,0 +1,31 @@
+{
+  "data_path": "C:\\Users\\jumia\\Downloads\\BackTap\\data",
+  "output_path": "C:\\Users\\jumia\\Downloads\\BackTap\\backtapbench_standard",
+  "participants": [
+    "participant1",
+    "participant2",
+    "participant3",
+    "participant4",
+    "participant5"
+  ],
+  "sensor_columns": [
+    "ax",
+    "ay",
+    "az",
+    "highx",
+    "highy",
+    "highz",
+    "accelmag",
+    "gx",
+    "gy",
+    "gz"
+  ],
+  "segment_length": 31,
+  "sampling_rate": 120,
+  "pre_samples": 7,
+  "post_samples": 24,
+  "window_size": 6,
+  "z_energy_threshold": 3.0,
+  "gyro_threshold": 1.0,
+  "debounce_samples": 14
+}
