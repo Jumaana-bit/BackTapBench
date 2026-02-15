@@ -94,7 +94,7 @@ The repsitory includes:
 ## Versioning
 This dataset release corresponds to:
 - **BackTapBench Standardized Dataset v1.0**
-- **Future updates (e.g., additional participants, new sensors, or expanded benchmarks) will be versioned and documented in the Dataverse version history.** 
+- Future updates (e.g., additional participants, new sensors, or expanded benchmarks) will be versioned and documented in the Dataverse version history. 
 
 ## License
 This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
@@ -102,7 +102,9 @@ You are free to share and adapt the dataset, provided appropriate credit is give
 
 ## Contact
 For questions, corrections, or collaboration inquiries, please contact:
+
 Jumaana Aslam
+
 jumaana.aslam@gmail.com
 
 ## Citation
